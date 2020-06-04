@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OOP_lab_5_17_3", "OOP_lab_5_17_3\OOP_lab_5_17_3.csproj", "{53428783-BA63-4A57-A301-1589F89D09A9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test", "Test\Test.csproj", "{99465BAA-0078-4097-B3FF-0D7E5514757C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{A21C506A-DEDF-44DF-8ADC-FE9E0E20A6F4}"
+	ProjectSection(SolutionItems) = preProject
+		.travis.yml = .travis.yml
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{53428783-BA63-4A57-A301-1589F89D09A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53428783-BA63-4A57-A301-1589F89D09A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53428783-BA63-4A57-A301-1589F89D09A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53428783-BA63-4A57-A301-1589F89D09A9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{99465BAA-0078-4097-B3FF-0D7E5514757C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99465BAA-0078-4097-B3FF-0D7E5514757C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99465BAA-0078-4097-B3FF-0D7E5514757C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99465BAA-0078-4097-B3FF-0D7E5514757C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6A8BF295-A285-4EC4-93EF-589A74FF07A2}
+	EndGlobalSection
+EndGlobal
